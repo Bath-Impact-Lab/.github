@@ -1,10 +1,10 @@
 # Bath Impact Lab
 
-Welcome to the GitHub home of the **Bath Impact Lab** 
+Welcome to the GitHub home of the **Bath Impact Lab**
 
 ## 🌍 About Us
 
-We are a software development team at the University of Bath focused on turning research outputs into real-world impact.
+We are a software development team at the University of Bath dedicated to transforming research into real world impact.
 
 ## 🚀 What You'll Find Here
 
