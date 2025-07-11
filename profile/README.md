@@ -1,6 +1,4 @@
-# Bath Impact Lab
-
-Welcome to the GitHub home of the **Bath Impact Lab**
+![Banner](images/Impact-Software-Development-Banner.png)
 
 ## 🌍 About Us
 
